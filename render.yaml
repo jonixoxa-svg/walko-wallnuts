@@ -1,0 +1,51 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+#
+# In Render: New → Blueprint → pick this repository. Everything below is
+# created automatically; only the optional keys need filling in afterwards.
+services:
+  - type: web
+    name: walko-walnuts
+    runtime: node
+    plan: starter # "free" also works; see the disk note below
+    region: frankfurt # closest to an Austrian orchard; oregon/ohio/singapore also available
+    branch: main
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      # Signs the owner session cookies. Render generates a strong value once.
+      - key: SESSION_SECRET
+        generateValue: true
+      # QR codes, sitemap and e-mail links use this. RENDER_EXTERNAL_URL is used
+      # automatically when it is left empty, so set it only for a custom domain.
+      - key: NEXT_PUBLIC_BASE_URL
+        sync: false
+      # Empty = demo checkout (no card data is collected anywhere).
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_PUBLISHABLE_KEY
+        sync: false
+      - key: PAYPAL_CLIENT_ID
+        sync: false
+      - key: PAYPAL_CLIENT_SECRET
+        sync: false
+      # Empty = confirmation mails are written to data/runtime/outbox.json.
+      - key: RESEND_API_KEY
+        sync: false
+      - key: MAIL_FROM
+        sync: false
+
+    # The orchard database is a JSON file, so it needs a persistent disk to
+    # survive restarts and deploys. Disks require a paid instance type; on the
+    # free plan leave this commented out and the orchard simply reseeds itself
+    # on every restart (deterministic — the same 2,000 trees come back, but
+    # purchases and uploaded field photos made in the meantime are lost).
+    disk:
+      name: walko-data
+      mountPath: /opt/render/project/src/data/runtime
+      sizeGB: 1

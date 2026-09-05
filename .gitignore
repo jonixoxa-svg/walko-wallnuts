@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.env.local
+.env*.local
+
+# runtime state: seeded on first boot, snapshotted by npm run backup
+data/runtime
+data/backups
+
+# photos uploaded from the field console
+public/uploads
+!public/uploads/.gitkeep
+
+*.tsbuildinfo
+.DS_Store
