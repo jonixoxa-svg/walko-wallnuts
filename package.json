@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "reset": "node scripts/reset.mjs",
-    "backup": "node scripts/backup.mjs"
+    "backup": "node scripts/backup.mjs",
+    "deploy": "node scripts/deploy.mjs"
   },
   "dependencies": {
     "@types/qrcode": "^1.5.6",
