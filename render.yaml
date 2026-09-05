@@ -6,7 +6,7 @@ services:
   - type: web
     name: walko-wallnuts
     runtime: node
-    plan: starter # "free" also works; see the disk note below
+    plan: free # upgrade to "starter" if you enable the disk at the bottom
     region: frankfurt # closest to an Austrian orchard; oregon/ohio/singapore also available
     branch: main
     buildCommand: npm ci && npm run build
@@ -45,7 +45,9 @@ services:
     # free plan leave this commented out and the orchard simply reseeds itself
     # on every restart (deterministic — the same 2,000 trees come back, but
     # purchases and uploaded field photos made in the meantime are lost).
-    disk:
-      name: walko-data
-      mountPath: /opt/render/project/src/data/runtime
-      sizeGB: 1
+    # Uncomment together with plan: starter to keep purchases and field photos
+    # across restarts (a disk is not available on the free plan).
+    # disk:
+    #   name: walko-data
+    #   mountPath: /opt/render/project/src/data/runtime
+    #   sizeGB: 1
