@@ -1,4 +1,4 @@
-# Walko Walnuts — walnut tree ownership platform
+# Walko Wallnuts — walnut tree ownership platform
 
 A complete, working website for selling and managing individual walnut trees in a
 2,000-tree orchard. English and German only; there is no third language anywhere in
@@ -72,9 +72,9 @@ MP4 (H.264) and WebM both work; add `poster` for a still frame.
 
 | Role | Email | Password |
 | --- | --- | --- |
-| Owner | `owner@walko-walnuts.com` | `walnut2026` |
-| Field worker | `field@walko-walnuts.com` | `orchard2026` |
-| Administrator | `admin@walko-walnuts.com` | `estate2026` |
+| Owner | `owner@walko-wallnuts.com` | `walnut2026` |
+| Field worker | `field@walko-wallnuts.com` | `orchard2026` |
+| Administrator | `admin@walko-wallnuts.com` | `estate2026` |
 
 The owner account (Anna Weber) holds four trees in four different parcels with full
 photo timelines, harvest history and inspection notes.

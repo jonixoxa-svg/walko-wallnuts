@@ -5,7 +5,7 @@ export const en = {
 
   meta: {
     home: {
-      title: "Walko Walnuts — Own a walnut tree in a real orchard",
+      title: "Walko Wallnuts — Own a walnut tree in a real orchard",
       description:
         "Choose one of 2,000 numbered walnut trees in our Styrian orchard, own it for life, and follow its growth, care and harvest online. €200 per tree.",
     },
@@ -22,7 +22,7 @@ export const en = {
     about: {
       title: "About the orchard",
       description:
-        "How Walko Walnuts was planted, how the trees are cared for, and the soil, climate and people behind every walnut.",
+        "How Walko Wallnuts was planted, how the trees are cared for, and the soil, climate and people behind every walnut.",
     },
     howItWorks: {
       title: "How it works — four steps to your own walnut tree",
@@ -172,7 +172,7 @@ export const en = {
       eyebrow: "The estate",
       title: "A valley planted for the long run",
       body: [
-        "Walko Walnuts covers twenty-four hectares of gentle south-facing slopes in eastern Styria. The first walnuts went into the ground in 2009, in straight rows, on deep loam soil that holds water through dry summers.",
+        "Walko Wallnuts covers twenty-four hectares of gentle south-facing slopes in eastern Styria. The first walnuts went into the ground in 2009, in straight rows, on deep loam soil that holds water through dry summers.",
         "We grow four cultivars — Franquette, Chandler, Lara and Geisenheim 26 — chosen for late budding, thick kernels and resilience against spring frost. Every tree has a number, a place in a row, and a record that goes back to the day it was planted.",
       ],
       points: [
@@ -459,7 +459,7 @@ export const en = {
   about: {
     eyebrow: "About",
     title: "A valley, four cultivars and a very long plan",
-    lead: "Walko Walnuts was planted in 2009 on land that had grown maize for forty years. The idea was simple: put in trees that outlive us, and let people own them one by one.",
+    lead: "Walko Wallnuts was planted in 2009 on land that had grown maize for forty years. The idea was simple: put in trees that outlive us, and let people own them one by one.",
     story: {
       title: "How it started",
       body: [
@@ -601,9 +601,9 @@ export const en = {
     pages: {
       terms: {
         title: "Terms and Conditions",
-        intro: "These terms govern the use of this website and the purchase of walnut tree ownership from Walko Walnuts.",
+        intro: "These terms govern the use of this website and the purchase of walnut tree ownership from Walko Wallnuts.",
         sections: [
-          { h: "1. Who we are", p: ["Walko Walnuts GmbH, Talweg 14, 8330 Feldbach, Austria, operates this website and the orchard described on it. Contact: hello@walko-walnuts.com."] },
+          { h: "1. Who we are", p: ["Walko Wallnuts GmbH, Talweg 14, 8330 Feldbach, Austria, operates this website and the orchard described on it. Contact: hello@walko-wallnuts.com."] },
           { h: "2. What is being sold", p: ["The contract concerns ownership of one or more individually numbered walnut trees standing in the orchard, together with the care, documentation and harvest reporting described in the Tree Ownership Agreement.", "No land, no share in the company and no financial instrument is transferred."] },
           { h: "3. Conclusion of contract", p: ["A contract comes into existence when we confirm your order by email. The tree's status changes to owned at the same moment and the tree is removed from sale."] },
           { h: "4. Prices and payment", p: ["The price is €200 per tree including statutory VAT where applicable. Payment is made by card, Apple Pay, Google Pay, PayPal or bank transfer. Invoices are issued electronically."] },
@@ -617,7 +617,7 @@ export const en = {
         title: "Privacy Policy",
         intro: "We process personal data only to fulfil your order, run your owner account and answer your messages.",
         sections: [
-          { h: "Controller", p: ["Walko Walnuts GmbH, Talweg 14, 8330 Feldbach, Austria. Data protection contact: privacy@walko-walnuts.com."] },
+          { h: "Controller", p: ["Walko Wallnuts GmbH, Talweg 14, 8330 Feldbach, Austria. Data protection contact: privacy@walko-wallnuts.com."] },
           { h: "What we process", p: ["Name, email address, postal address, phone number, order and payment records, owner account data and, if you write to us, the content of your message.", "Server logs contain IP address, time and requested page and are kept for security purposes for a short period."] },
           { h: "Why", p: ["To perform the contract (Art. 6(1)(b) GDPR), to comply with tax and commercial law (Art. 6(1)(c)), and, for the newsletter, on the basis of your consent (Art. 6(1)(a))."] },
           { h: "Who receives data", p: ["Our payment provider, our mail delivery provider, our hosting provider and our tax advisers, each only as far as necessary. We do not sell data."] },
@@ -638,7 +638,7 @@ export const en = {
         title: "Purchase and Refund Policy",
         intro: "How cancellation, withdrawal and refunds work.",
         sections: [
-          { h: "Right of withdrawal", p: ["Consumers in the EU may withdraw from the purchase within 14 days of order confirmation without giving reasons. Write to hello@walko-walnuts.com with your order number."] },
+          { h: "Right of withdrawal", p: ["Consumers in the EU may withdraw from the purchase within 14 days of order confirmation without giving reasons. Write to hello@walko-wallnuts.com with your order number."] },
           { h: "Effect of withdrawal", p: ["We refund the full amount using the same payment method within 14 days of receiving your notice. The tree returns to the map as available."] },
           { h: "After 14 days", p: ["Ownership can be transferred to another person free of charge, but the purchase price is not refundable after the withdrawal period, because care of the tree begins immediately."] },
           { h: "If a tree is lost", p: ["Should a tree die or be destroyed, we replace it with an equivalent tree of similar age and cultivar at no cost, and the record continues on the replacement tree."] },
@@ -648,7 +648,7 @@ export const en = {
         title: "Tree Ownership Agreement",
         intro: "The agreement each owner accepts at checkout. A signed copy is available in your owner account.",
         sections: [
-          { h: "1. Subject", p: ["Walko Walnuts transfers to the owner the ownership of the walnut tree bearing the number stated in the certificate, standing on the estate's land, together with the right to its harvest."] },
+          { h: "1. Subject", p: ["Walko Wallnuts transfers to the owner the ownership of the walnut tree bearing the number stated in the certificate, standing on the estate's land, together with the right to its harvest."] },
           { h: "2. Care", p: ["The estate carries out all cultivation, irrigation, pruning, plant protection, harvest, drying and weighing at its own cost, in line with good agricultural practice."] },
           { h: "3. Documentation", p: ["The estate documents the tree at least four times per year with photographs and a condition assessment, and records the dried harvest weight per season in the owner's account."] },
           { h: "4. Harvest", p: ["The owner chooses each autumn whether the harvest is shipped, collected or sold on their behalf. Shipping costs are borne by the owner. Where the harvest is sold, proceeds are credited after documented handling costs."] },

@@ -7,7 +7,7 @@ export const de: Dict = {
 
   meta: {
     home: {
-      title: "Walko Walnuts — Besitzen Sie einen Walnussbaum",
+      title: "Walko Wallnuts — Besitzen Sie einen Walnussbaum",
       description:
         "Wählen Sie einen von 2.000 nummerierten Walnussbäumen in unserer steirischen Anlage, besitzen Sie ihn ein Leben lang und verfolgen Sie Wachstum, Pflege und Ernte online. 200 € pro Baum.",
     },
@@ -24,7 +24,7 @@ export const de: Dict = {
     about: {
       title: "Über die Anlage",
       description:
-        "Wie Walko Walnuts gepflanzt wurde, wie die Bäume gepflegt werden, und welcher Boden, welches Klima und welche Menschen hinter jeder Walnuss stehen.",
+        "Wie Walko Wallnuts gepflanzt wurde, wie die Bäume gepflegt werden, und welcher Boden, welches Klima und welche Menschen hinter jeder Walnuss stehen.",
     },
     howItWorks: {
       title: "So funktioniert es — in vier Schritten zum eigenen Walnussbaum",
@@ -174,7 +174,7 @@ export const de: Dict = {
       eyebrow: "Das Gut",
       title: "Ein Tal, gepflanzt für die lange Sicht",
       body: [
-        "Walko Walnuts umfasst vierundzwanzig Hektar sanfter Südhänge in der Oststeiermark. Die ersten Walnussbäume kamen 2009 in die Erde — in geraden Reihen, auf tiefgründigem Lehmboden, der auch trockene Sommer überbrückt.",
+        "Walko Wallnuts umfasst vierundzwanzig Hektar sanfter Südhänge in der Oststeiermark. Die ersten Walnussbäume kamen 2009 in die Erde — in geraden Reihen, auf tiefgründigem Lehmboden, der auch trockene Sommer überbrückt.",
         "Wir bauen vier Sorten an — Franquette, Chandler, Lara und Geisenheim 26 —, ausgewählt für späten Austrieb, kräftige Kerne und Widerstandskraft gegen Spätfrost. Jeder Baum hat eine Nummer, einen Platz in einer Reihe und eine Akte, die bis zum Pflanztag zurückreicht.",
       ],
       points: [
@@ -461,7 +461,7 @@ export const de: Dict = {
   about: {
     eyebrow: "Über uns",
     title: "Ein Tal, vier Sorten und ein sehr langer Plan",
-    lead: "Walko Walnuts wurde 2009 auf Land gepflanzt, das vierzig Jahre lang Mais getragen hatte. Die Idee war einfach: Bäume setzen, die uns überdauern, und sie einzeln in die Hände von Menschen geben.",
+    lead: "Walko Wallnuts wurde 2009 auf Land gepflanzt, das vierzig Jahre lang Mais getragen hatte. Die Idee war einfach: Bäume setzen, die uns überdauern, und sie einzeln in die Hände von Menschen geben.",
     story: {
       title: "Wie es begann",
       body: [
@@ -603,9 +603,9 @@ export const de: Dict = {
     pages: {
       terms: {
         title: "Allgemeine Geschäftsbedingungen",
-        intro: "Diese Bedingungen gelten für die Nutzung dieser Website und den Erwerb von Walnussbaum-Eigentum bei Walko Walnuts.",
+        intro: "Diese Bedingungen gelten für die Nutzung dieser Website und den Erwerb von Walnussbaum-Eigentum bei Walko Wallnuts.",
         sections: [
-          { h: "1. Wer wir sind", p: ["Walko Walnuts GmbH, Talweg 14, 8330 Feldbach, Österreich, betreibt diese Website und die beschriebene Anlage. Kontakt: hello@walko-walnuts.com."] },
+          { h: "1. Wer wir sind", p: ["Walko Wallnuts GmbH, Talweg 14, 8330 Feldbach, Österreich, betreibt diese Website und die beschriebene Anlage. Kontakt: hello@walko-wallnuts.com."] },
           { h: "2. Gegenstand des Vertrags", p: ["Der Vertrag betrifft das Eigentum an einem oder mehreren einzeln nummerierten Walnussbäumen in der Anlage samt Pflege, Dokumentation und Erntebericht gemäß Eigentumsvertrag.", "Es werden weder Grund und Boden noch Gesellschaftsanteile oder Finanzinstrumente übertragen."] },
           { h: "3. Zustandekommen des Vertrags", p: ["Der Vertrag kommt mit unserer Bestellbestätigung per E-Mail zustande. Zugleich wechselt der Status des Baumes auf vergeben und der Baum wird aus dem Verkauf genommen."] },
           { h: "4. Preise und Zahlung", p: ["Der Preis beträgt 200 € je Baum inklusive gesetzlicher Umsatzsteuer, soweit anwendbar. Gezahlt wird per Karte, Apple Pay, Google Pay, PayPal oder Banküberweisung. Rechnungen werden elektronisch ausgestellt."] },
@@ -619,7 +619,7 @@ export const de: Dict = {
         title: "Datenschutzerklärung",
         intro: "Wir verarbeiten personenbezogene Daten nur, um Ihre Bestellung auszuführen, Ihr Eigentümer-Konto zu führen und Ihre Nachrichten zu beantworten.",
         sections: [
-          { h: "Verantwortlicher", p: ["Walko Walnuts GmbH, Talweg 14, 8330 Feldbach, Österreich. Datenschutzkontakt: privacy@walko-walnuts.com."] },
+          { h: "Verantwortlicher", p: ["Walko Wallnuts GmbH, Talweg 14, 8330 Feldbach, Österreich. Datenschutzkontakt: privacy@walko-wallnuts.com."] },
           { h: "Welche Daten", p: ["Name, E-Mail-Adresse, Postanschrift, Telefonnummer, Bestell- und Zahlungsdaten, Kontodaten und, wenn Sie uns schreiben, der Inhalt Ihrer Nachricht.", "Serverprotokolle enthalten IP-Adresse, Zeitpunkt und aufgerufene Seite und werden aus Sicherheitsgründen kurz aufbewahrt."] },
           { h: "Wozu", p: ["Zur Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO), zur Erfüllung steuer- und handelsrechtlicher Pflichten (lit. c) und, beim Newsletter, auf Grundlage Ihrer Einwilligung (lit. a)."] },
           { h: "Wer Daten erhält", p: ["Unser Zahlungsanbieter, unser Mailversanddienst, unser Hosting-Anbieter und unsere Steuerberatung — jeweils nur im nötigen Umfang. Wir verkaufen keine Daten."] },
@@ -640,7 +640,7 @@ export const de: Dict = {
         title: "Kauf- und Rückgaberichtlinie",
         intro: "Wie Widerruf, Stornierung und Rückerstattung funktionieren.",
         sections: [
-          { h: "Widerrufsrecht", p: ["Verbraucherinnen und Verbraucher in der EU können binnen 14 Tagen ab Bestellbestätigung ohne Angabe von Gründen widerrufen. Schreiben Sie mit Ihrer Bestellnummer an hello@walko-walnuts.com."] },
+          { h: "Widerrufsrecht", p: ["Verbraucherinnen und Verbraucher in der EU können binnen 14 Tagen ab Bestellbestätigung ohne Angabe von Gründen widerrufen. Schreiben Sie mit Ihrer Bestellnummer an hello@walko-wallnuts.com."] },
           { h: "Folgen des Widerrufs", p: ["Wir erstatten den vollen Betrag binnen 14 Tagen nach Eingang Ihrer Erklärung über dasselbe Zahlungsmittel. Der Baum kehrt als verfügbar auf die Karte zurück."] },
           { h: "Nach 14 Tagen", p: ["Das Eigentum kann kostenfrei auf eine andere Person übertragen werden; der Kaufpreis wird nach Ablauf der Widerrufsfrist jedoch nicht erstattet, da die Pflege des Baumes sofort beginnt."] },
           { h: "Wenn ein Baum verloren geht", p: ["Stirbt ein Baum oder wird er zerstört, ersetzen wir ihn kostenlos durch einen gleichwertigen Baum ähnlichen Alters und gleicher Sorte; die Akte läuft auf dem Ersatzbaum weiter."] },
@@ -650,7 +650,7 @@ export const de: Dict = {
         title: "Eigentumsvertrag",
         intro: "Der Vertrag, den jede Eigentümerin und jeder Eigentümer an der Kasse akzeptiert. Eine gezeichnete Fassung liegt im Eigentümer-Konto.",
         sections: [
-          { h: "1. Gegenstand", p: ["Walko Walnuts überträgt der Eigentümerin oder dem Eigentümer das Eigentum an dem im Zertifikat genannten, nummerierten Walnussbaum auf dem Grund des Guts samt dem Recht auf dessen Ernte."] },
+          { h: "1. Gegenstand", p: ["Walko Wallnuts überträgt der Eigentümerin oder dem Eigentümer das Eigentum an dem im Zertifikat genannten, nummerierten Walnussbaum auf dem Grund des Guts samt dem Recht auf dessen Ernte."] },
           { h: "2. Pflege", p: ["Das Gut übernimmt auf eigene Kosten die gesamte Bewirtschaftung, Bewässerung, Schnitt, Pflanzenschutz, Ernte, Trocknung und Verwiegung nach guter fachlicher Praxis."] },
           { h: "3. Dokumentation", p: ["Das Gut dokumentiert den Baum mindestens viermal jährlich mit Fotos und einer Zustandsbewertung und erfasst das getrocknete Erntegewicht je Saison im Konto der Eigentümerin oder des Eigentümers."] },
           { h: "4. Ernte", p: ["Jeden Herbst wird gewählt, ob die Ernte versandt, abgeholt oder für die Eigentümerin bzw. den Eigentümer verkauft wird. Versandkosten trägt die Eigentümerseite. Beim Verkauf wird der Erlös nach dokumentierten Handlingkosten gutgeschrieben."] },

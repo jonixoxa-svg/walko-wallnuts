@@ -4,10 +4,10 @@
  */
 
 export const site = {
-  brand: "Walko Walnuts",
+  brand: "Walko Wallnuts",
   brandShort: "Walko",
-  legalName: "Walko Walnuts GmbH", // PLACEHOLDER
-  domain: "walko-walnuts.com", // PLACEHOLDER
+  legalName: "Walko Wallnuts GmbH", // PLACEHOLDER
+  domain: "walko-wallnuts.com", // PLACEHOLDER
   founded: 2009,
 
   totals: {
@@ -19,12 +19,12 @@ export const site = {
   },
 
   contact: {
-    email: "hello@walko-walnuts.com", // PLACEHOLDER
-    ownersEmail: "owners@walko-walnuts.com", // PLACEHOLDER
+    email: "hello@walko-wallnuts.com", // PLACEHOLDER
+    ownersEmail: "owners@walko-wallnuts.com", // PLACEHOLDER
     phone: "+43 660 1234567", // PLACEHOLDER
     phoneHref: "+436601234567", // PLACEHOLDER
     whatsapp: "436601234567", // PLACEHOLDER
-    addressLines: ["Walko Walnuts", "Talweg 14", "8330 Feldbach", "Austria"], // PLACEHOLDER
+    addressLines: ["Walko Wallnuts", "Talweg 14", "8330 Feldbach", "Austria"], // PLACEHOLDER
     vat: "ATU00000000", // PLACEHOLDER
     register: "FN 000000a, Regional Court Graz", // PLACEHOLDER
     iban: "AT00 0000 0000 0000 0000", // PLACEHOLDER
@@ -49,9 +49,9 @@ export const site = {
 
   /** Demo accounts seeded into the local database. */
   demoAccounts: {
-    owner: { email: "owner@walko-walnuts.com", password: "walnut2026" },
-    worker: { email: "field@walko-walnuts.com", password: "orchard2026" },
-    admin: { email: "admin@walko-walnuts.com", password: "estate2026" },
+    owner: { email: "owner@walko-wallnuts.com", password: "walnut2026" },
+    worker: { email: "field@walko-wallnuts.com", password: "orchard2026" },
+    admin: { email: "admin@walko-wallnuts.com", password: "estate2026" },
   },
 } as const;
 

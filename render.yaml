@@ -4,7 +4,7 @@
 # created automatically; only the optional keys need filling in afterwards.
 services:
   - type: web
-    name: walko-walnuts
+    name: walko-wallnuts
     runtime: node
     plan: starter # "free" also works; see the disk note below
     region: frankfurt # closest to an Austrian orchard; oregon/ohio/singapore also available
